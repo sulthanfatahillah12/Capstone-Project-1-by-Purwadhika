@@ -1,4 +1,4 @@
-# Capstone Project Module 1 : Library management system
+# Capstone Project Module 1 : Library Management System
 
 ## Overview
 A Python-based console application simulating a library management system that allows users to Create, Read, Update, and Delete (CRUD) book records. This project uses dictionaries and lists to mock a database (dataBuku) to manage book metadata such as title, author, publication year, ISBN, category, and stock.
